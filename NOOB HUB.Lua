@@ -1,3 +1,4 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NOOBHUBX/LoadingUI/main/NOOB%20HUB.Lua"))()
 _WvBQDCJMQc9Qovr1, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
